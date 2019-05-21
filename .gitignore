@@ -7,6 +7,8 @@
 **/__pycache__/
 **/.ipynb_checkpoints/
 
+**/resources/
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
@@ -22,6 +24,8 @@ task/.idea/*
 *.rar
 *.bin
 *.vec
+*.json
+*.xls
 *.model
 *.gz
 *.bz2
